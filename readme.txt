@@ -4,3 +4,4 @@ author: zhangdi
 date: 20140917
 location: shanghai
 company: suntec
+school: USTC
