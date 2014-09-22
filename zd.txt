@@ -10,3 +10,4 @@ i'm back
 today is monday, 9, 22nd, 2014
 it's a rainy day
 authored by master
+learn how to fix conflict_master
