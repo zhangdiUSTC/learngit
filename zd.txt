@@ -12,3 +12,5 @@ it's a rainy day
 authored by master
 learn how to fix conflict_master
 learn working tree
+merge with ff
+merge with noff
